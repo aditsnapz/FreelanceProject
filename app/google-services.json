@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "567042367294",
+    "firebase_url": "https://freelanceprojek.firebaseio.com",
+    "project_id": "freelanceprojek",
+    "storage_bucket": "freelanceprojek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567042367294:android:f2f36d93240d2fed",
+        "android_client_info": {
+          "package_name": "com.example.asus.freelanceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567042367294-l2blame18cgdufhqle1ia90savsbm0bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-s8Y60qu9uEol2utr_qf0ZYEgxBuFVKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
